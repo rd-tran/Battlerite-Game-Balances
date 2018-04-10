@@ -2,8 +2,8 @@
 api_key.txt
 Proposal.docx
 ~oposal.docx
-/compiled_data/match_data_old
-/compiled_data/win_rates_data_old
-/compiled_data/pick_rates_data_old
-/compiled_data/combined_win_rates(first_run)
+\compiled_data\match_data_old
+\compiled_data\win_rates_data_old
+\compiled_data\pick_rates_data_old
+\compiled_data\combined_win_rates(first_run)
 images
